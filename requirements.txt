@@ -1,0 +1,4 @@
+anthropic[bedrock]>=1,<2
+boto3>=1.35
+fastapi>=0.115
+uvicorn[standard]>=0.30
